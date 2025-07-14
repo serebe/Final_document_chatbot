@@ -41,21 +41,32 @@ def filtrar_productos(df, pregunta):
             pregunta_norm = pregunta_norm.replace(k, v)
 
     col_producto = encontrar_columna(df, 'producto de credito')
+    col_entidad = encontrar_columna(df, 'nombre_entidad')
+
     productos = df[col_producto].dropna().unique()
+    entidades = df[col_entidad].dropna().unique()
+
     productos_norm = [(p, normalizar(p)) for p in productos]
+    entidades_norm = [(e, normalizar(e)) for e in entidades]
 
-    coincidencias = [p for p, pn in productos_norm if all(palabra in pn for palabra in pregunta_norm.split() if len(palabra) > 3)]
+    coincidencias_producto = [p for p, pn in productos_norm if all(palabra in pn for palabra in pregunta_norm.split() if len(palabra) > 3)]
+    coincidencias_entidad = [e for e, en in entidades_norm if any(palabra in en for palabra in pregunta_norm.split() if len(palabra) > 3)]
 
-    if not coincidencias:
-        col_tipo = encontrar_columna(df, 'tipo_de_credito')
-        tipos = df[col_tipo].dropna().unique()
-        tipos_norm = [(t, normalizar(t)) for t in tipos]
-        tipo_match = [t for t, tn in tipos_norm if any(palabra in tn for palabra in pregunta_norm.split())]
-        if tipo_match:
-            return df[df[col_tipo].isin(tipo_match)], tipo_match[0]
-        return pd.DataFrame(), None
+    if coincidencias_entidad:
+        df = df[df[col_entidad].isin(coincidencias_entidad)]
 
-    return df[df[col_producto].isin(coincidencias)], coincidencias[0]
+    if coincidencias_producto:
+        df = df[df[col_producto].isin(coincidencias_producto)]
+        return df, coincidencias_producto[0] if coincidencias_producto else None
+
+    col_tipo = encontrar_columna(df, 'tipo_de_credito')
+    tipos = df[col_tipo].dropna().unique()
+    tipos_norm = [(t, normalizar(t)) for t in tipos]
+    tipo_match = [t for t, tn in tipos_norm if any(palabra in tn for palabra in pregunta_norm.split())]
+    if tipo_match:
+        return df[df[col_tipo].isin(tipo_match)], tipo_match[0]
+
+    return pd.DataFrame(), None
 
 def main():
     st.set_page_config(page_title="Chatbot financiero: tasas de interés en Colombia")
@@ -84,14 +95,12 @@ def main():
                 prompt = f"""
 Eres un asistente financiero experto en tasas de interés en Colombia. A continuación tienes información sobre productos financieros.
 
-Producto consultado: {producto_detectado if producto_detectado else 'Detectado por categoría'}
-
 Consulta del usuario: "{pregunta}"
 
 Datos relevantes:
 {muestra}
 
-Por favor, responde en español, de forma clara y explicativa. Indica cuál es la tasa más baja, cuál entidad la ofrece, y si hay observaciones relevantes.
+Por favor, responde en español, de forma clara y explicativa. Si el usuario pregunta por una entidad, indica cuáles son los productos financieros y sus tasas ofrecidos por esa entidad. Si pregunta por un producto, asegúrate de que el resultado corresponda al producto indicado, y no a otro producto distinto aunque tenga una tasa más baja. Si la consulta menciona tipo de persona (natural o jurídica), tenlo en cuenta al seleccionar los resultados.. Si el usuario pregunta por una entidad, indica cuáles son los productos financieros y sus tasas ofrecidos por esa entidad. Si pregunta por un producto, indica la entidad que ofrece la mejor tasa y cualquier observación relevante.
 """
 
                 llm = Ollama(model="mistral", temperature=0.7)
@@ -103,3 +112,4 @@ Por favor, responde en español, de forma clara y explicativa. Indica cuál es l
 
 if __name__ == "__main__":
     main()
+
