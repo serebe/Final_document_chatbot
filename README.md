@@ -1,8 +1,8 @@
-# **Práctica dos.** Aprendizaje de Máquinas
+# **Proyecto final de** ***Sistemas Inteligentes***
 
 ***Simón Cuartas Rendón***
 
-Desarrollo del **entregable número dos** del curso de **aprendizaje de máquinas**, relacionado con los temas de **redes neuronales**: aplicaciones en problemas de clasificación y regresión (en un problema de series de tiempo).
+Desarrollo del entregable del *proyecto final* del curso de **Sistemas Inteligentes** de la Universidad Nacional de Colombia. El propósito es desarrollar un *chatbot* que le permita a las personas consultar cuáles son las entidades financieras de Colombia que pueden ofrecer mejores tasas de interés para distintos productos en un momento datos.
 
 A continuación, se explica cómo se pueden configurar el entorno virtual con el que se pueden ejecutar los *notebooks* de Python 
 

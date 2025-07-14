@@ -4,3 +4,12 @@ scikit-learn
 scipy
 matplotlib
 seaborn
+pyjanitor
+kagglehub
+streamlit
+langchain
+openai
+python-dotenv
+langchain-community
+langchain-experimental
+tabulate
