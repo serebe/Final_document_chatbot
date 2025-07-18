@@ -13,3 +13,12 @@ python-dotenv
 langchain-community
 langchain-experimental
 tabulate
+transformers
+PyPDF2
+flask
+werkzeug
+sentence-transformers
+langchain-huggingface
+langchain-openai
+faiss-cpu
+langchain-ollama

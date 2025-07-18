@@ -42,7 +42,7 @@ def allowed_file(filename):
 # --- 3. Configuración de Modelos y Datos ---
 
 # Chatbot 1: Flan-T5 Large (para PDF)
-PDF_PATH = Path(r"Datos\riesgo-credito-2.pdf") # Asegúrate de que esta ruta sea correcta
+PDF_PATH = Path("./Datos/riesgo-credito-2.pdf") # Asegúrate de que esta ruta sea correcta
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 LLM_MODEL = "google/flan-t5-large"
 
