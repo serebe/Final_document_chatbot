@@ -1,0 +1,228 @@
+[2025-07-14 02:35:06] Usuario: hola
+[2025-07-14 02:35:06] Chatbot: ¡Hola! Estoy aquí para ayudarte con lo que necesites sobre riesgo de crédito en Colombia. ¿Qué deseas saber?
+
+[2025-07-14 02:36:03] Usuario: ¿Que tasa tiene banco davivienda en credito hipotecario?
+[2025-07-14 02:36:03] Chatbot: 13.35 % e.a.
+
+[2025-07-14 02:36:58] Usuario: ¿Que tasa tiene bancolombia en credito hipotecario?
+[2025-07-14 02:36:58] Chatbot: 9.0 % e.a.
+
+[2025-07-14 02:37:57] Usuario: ¿Que tasa tiene banco caja social  en credito hipotecario?
+[2025-07-14 02:37:57] Chatbot: 10.0 % e.a.
+
+[2025-07-14 03:00:21] Usuario: hola
+[2025-07-14 03:00:21] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 03:00:35] Usuario: cuentame un chiste
+[2025-07-14 03:00:35] Chatbot: ¿Qué le dijo el riesgo de crédito al cliente? ¡No te preocupes, solo estoy evaluando tu *score*!
+
+[2025-07-14 03:01:58] Usuario: ¿Cual es la tasa de credito hipotecario de bancolombia?
+[2025-07-14 03:01:58] Chatbot: 16.39 %
+
+[2025-07-14 03:01:58] Usuario: ¿Cual es la tasa de credito hipotecario de bancolombia?
+[2025-07-14 03:01:58] Chatbot: 16.39 %
+
+[2025-07-14 03:03:20] Usuario: ¿Cual es el mejor banco para invertir?
+[2025-07-14 03:03:20] Chatbot: las mejores opciones son: bancolombia: cdt con tasas de 8-9 % e.a., mejor opción para diversificación y accesibilidad digital.
+
+[2025-07-14 03:05:34] Usuario: ¿Que bancos generan mayor rentabilidad?
+[2025-07-14 03:05:34] Chatbot: banco de occidente: menos de 12.0 % e.a. banco davivienda: 11.29 % e.a.
+
+[2025-07-14 03:08:23] Usuario: ¿Que CDT ofrece mejor rentabilidad?
+[2025-07-14 03:08:23] Chatbot: pibank
+
+[2025-07-14 03:09:24] Usuario: ¿Cual es la tasa de CDT Bancolombia?
+[2025-07-14 03:09:24] Chatbot: 8-9 % e.a.
+
+[2025-07-14 03:16:36] Usuario: hola
+[2025-07-14 03:16:36] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 03:17:00] Usuario: cuentame un chiste
+[2025-07-14 03:17:00] Chatbot: ¿Por qué el analista de crédito está soltero? Porque siempre ve demasiado riesgo en las relaciones.
+
+[2025-07-14 03:18:11] Usuario: ¿cuales son las mejores tasas en tarjetas de credito?
+[2025-07-14 03:18:11] Chatbot: cooperatral: 19.3 % e.a.
+
+[2025-07-14 03:18:43] Usuario: ¿cual es un buen banco para invertir?
+[2025-07-14 03:18:43] Chatbot: cdt con tasas de 8-9 % e.a., mejor opción para diversificación y accesibilidad digital
+
+[2025-07-14 03:19:50] Usuario: ¿cuales bancos ofrecen tasas de 8-9 % e.a?
+[2025-07-14 03:19:50] Chatbot: banco de bogotá
+
+[2025-07-14 03:21:19] Usuario: ¿En que invertir mi dinero?
+[2025-07-14 03:21:19] Chatbot: en tes y bonos corporativos para diversificar riesgo
+
+[2025-07-14 03:23:09] Usuario: ¿Bancolombia o banco de bogota?
+[2025-07-14 03:23:09] Chatbot: banco de la repblica
+
+[2025-07-14 03:24:02] Usuario: Escoge entre bancolombia o banco de bogota
+[2025-07-14 03:24:02] Chatbot: Bancolombia
+
+[2025-07-14 03:28:01] Usuario: hola
+[2025-07-14 03:28:01] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 03:28:28] Usuario: hola
+[2025-07-14 03:28:28] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 03:29:16] Usuario: hola
+[2025-07-14 03:29:16] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 03:30:36] Usuario: hola
+[2025-07-14 03:30:36] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 03:30:42] Usuario: cuentame un chiste
+[2025-07-14 03:30:42] Chatbot: ¿Qué le dijo el riesgo de crédito al cliente? ¡No te preocupes, solo estoy evaluando tu *score*!
+
+[2025-07-14 03:31:11] Usuario: escoge bancolombia o banco de bogota
+[2025-07-14 03:31:11] Chatbot: Bancolombia
+
+[2025-07-14 03:31:51] Usuario: escoge entre el cafe o el azul
+[2025-07-14 03:31:51] Chatbot: El café es más agradable.
+
+[2025-07-14 03:33:01] Usuario: ¿Que tasa es mejor en credito hipotecario?
+[2025-07-14 03:33:01] Chatbot: las mejores tasas en julio de 2025 son: 2 pibank: 13.2 % e.a., la mejor tasa para cuentas de ahorro digitales.
+
+[2025-07-14 03:33:53] Usuario: ¿Cuales bancos ofrecen mejores tasas?
+[2025-07-14 03:33:53] Chatbot: credifamilia (13.19 % e.a.) para créditos de consumo, bancolombia (9.0 % e.a.) para hipotecas, pibank (13.2 % e.a.) para cuentas de ahorro y cdt, y banco contactar (9.5 % e.a.) para inversiones conservadoras
+
+[2025-07-14 03:34:35] Usuario: Tasa bancolombia hipotecario
+[2025-07-14 03:34:35] Chatbot: La tasa de interés de los créditos hipotecarios en colombia
+
+[2025-07-14 03:35:12] Usuario: ¿cual tasa tiene bancolombia en credito hipotecario?
+[2025-07-14 03:35:12] Chatbot: 9.0 % e.a.
+
+[2025-07-14 03:35:43] Usuario: ¿me quieres o no me quieres?
+[2025-07-14 03:35:43] Chatbot: me quieres o no quieres?
+
+[2025-07-14 03:36:22] Usuario: decide entre quererme o no quererme
+[2025-07-14 03:36:22] Chatbot: el riesgo de crédito en el sistema financiero colombiano el riesgo de crédito es un factor crtico en el sistema financiero colombiano, especialmente en un contexto de desaceleración económica y tasas de interés elevadas. segn los re- portes de estabilidad financiera del banco de la repblica (2024-2025), los préstamos no productivos (npl) han aumentado debido a condi
+
+[2025-07-14 03:37:02] Usuario: ¿Mejores tasas de cdt?
+[2025-07-14 03:37:02] Chatbot: las mejores tasas en julio de 2025 son: pibank: 13.2 % e.a., la mejor tasa para plazos cortos (3-6 meses).
+
+[2025-07-14 03:38:02] Usuario: ¿cuales son tus pasatiempos?
+[2025-07-14 03:38:02] Chatbot: tasas competitivas
+
+[2025-07-14 03:39:02] Usuario: ¿Juegas deportes?
+[2025-07-14 03:39:02] Chatbot: Juegas deportes?
+
+[2025-07-14 03:39:23] Usuario: juegas deportes?
+[2025-07-14 03:39:23] Chatbot: juegas deportes
+
+[2025-07-14 03:40:20] Usuario: recomiendame tasas de microcreditos
+[2025-07-14 03:40:20] Chatbot: Recomendamos tasas de microcréditos
+
+[2025-07-14 03:41:06] Usuario: ¿Que tasa de microcredito es mejor?
+[2025-07-14 03:41:06] Chatbot: las tasas promedio en 2025 son: bancos especializados: 20-25 % e.a., con 1.8 millones de desembolsos en 2024.
+
+[2025-07-14 03:42:04] Usuario: ¿Bancos publicos o especializados para microcreditos?
+[2025-07-14 03:42:04] Chatbot: neobancos como pibank ofrecen tasas altas (13.2 % e.a.) mediante tecnologa.
+
+[2025-07-14 03:43:51] Usuario: ¿Que modelos de inversión existen en Colombia?
+[2025-07-14 03:43:51] Chatbot: los bancos adoptan los siguientes modelos: intermediación: ganancias por el diferencial entre tasas de depósito y préstamo. inversión en v alores: inversión en tes y bonos corporativos para diversificar riesgo. servicios basados en comisiones: ingresos por tarjetas y servicios, representing el 58.69 % de los ingresos por comisiones (2006-2010).
+
+[2025-07-14 03:45:17] Usuario: ¿Que es la inversion extranjera?
+[2025-07-14 03:45:17] Chatbot: banco de bogotá invierten en centroamérica, con riesgos cambiarios
+
+[2025-07-14 03:45:19] Usuario: ¿Que es la inversion extranjera?
+[2025-07-14 03:45:19] Chatbot: banco de bogotá invierten en centroamérica, con riesgos cambiarios
+
+[2025-07-14 03:46:22] Usuario: ¿Que son las comisiones?
+[2025-07-14 03:46:22] Chatbot: el riesgo de crédito en el sistema financiero colombiano el riesgo de crédito es un factor crtico en el sistema financiero colombiano, especialmente en un contexto de desaceleración económica y tasas de interés elevadas. segn los re- portes de estabilidad financiera del banco de la repblica (2024-2025), los préstamos no productivos (npl) han aumentado debido a condi
+
+[2025-07-14 03:47:31] Usuario: salir
+[2025-07-14 03:47:31] Chatbot: La tasa de usura en julio de 2025 es 27.5 %, haciendo que estas opciones sean significadamente más bajas.
+
+[2025-07-14 19:20:58] Usuario: hola
+[2025-07-14 19:20:58] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-14 19:22:03] Usuario: ¿cual es la mejor tasa para tarjeta de credito?
+[2025-07-14 19:22:03] Chatbot: cooperatral: 19.3 %
+
+[2025-07-14 19:23:04] Usuario: cuentame un chiste
+[2025-07-14 19:23:04] Chatbot: ¿Por qué el banco no le prestó al fantasma? ¡Porque no tenía historial crediticio!
+
+[2025-07-14 19:23:49] Usuario: ¿Que banco ofrece mas rentabilidad?
+[2025-07-14 19:23:49] Chatbot: pibank
+
+[2025-07-14 19:24:51] Usuario: ¿Que tasa tiene bancolombia en credito hipotecario?
+[2025-07-14 19:24:51] Chatbot: 9.0 % e.a.
+
+[2025-07-14 19:28:45] Usuario: ¿cuales son las mejores tasas?
+[2025-07-14 19:28:45] Chatbot: pibank: 13.2 % e.a., la mejor tasa para plazos cortos (3-6 meses).
+
+[2025-07-14 19:30:53] Usuario: ¿Cuales bancos ofrecen mejores tasas?
+[2025-07-14 19:30:53] Chatbot: credifamilia (13.19 % e.a.) para créditos de consumo, bancolombia (9.0 % e.a.) para hipotecas, pibank (13.2 % e.a.) para cuentas de ahorro y cdt, y banco contactar (9.5 % e.a.) para inversiones conservadoras
+
+[2025-07-14 19:31:41] Usuario: escoge entre pibank o bancolombia
+[2025-07-14 19:31:41] Chatbot: pibank
+
+[2025-07-16 21:40:11] Usuario: hola
+[2025-07-16 21:40:11] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-16 22:05:13] Usuario: hola
+[2025-07-16 22:05:13] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-16 22:05:48] Usuario: cuentame un chiste
+[2025-07-16 22:05:48] Chatbot: ¿Qué le dijo el riesgo de crédito al cliente? ¡No te preocupes, solo estoy evaluando tu *score*!
+
+[2025-07-16 22:08:19] Usuario: cuentame un chiste
+[2025-07-16 22:08:19] Chatbot: ¿Qué le dijo el riesgo de crédito al cliente? ¡No te preocupes, solo estoy evaluando tu *score*!
+
+[2025-07-16 22:08:24] Usuario: cuentame un chiste
+[2025-07-16 22:08:24] Chatbot: ¿Por qué el banco no le prestó al fantasma? ¡Porque no tenía historial crediticio!
+
+[2025-07-16 23:47:28] Usuario: hola
+[2025-07-16 23:47:28] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-16 23:47:41] Usuario: hola
+[2025-07-16 23:47:41] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-16 23:48:04] Usuario: hola
+[2025-07-16 23:48:04] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-16 23:48:57] Usuario: ¿cual tasa es mas baja?
+[2025-07-16 23:48:57] Chatbot: la tasa de usura en julio de 2025 es 27.5 %
+
+[2025-07-16 23:53:55] Usuario: ¿cual tasa es mas baja?
+[2025-07-16 23:53:55] Chatbot:  La entidad Bancoldex ofrece el producto de crédito "Comerciales especiales directos por la banca de segundo piso" con una tasa efectiva promedio ponderada más baja en los plazos mencionados:
+- Más de 3 años y hasta 5 años: 8.24%
+- Más de 1 año y hasta 3 años: 8.23%
+- Más de 30 días y hasta 1 año: 8.77%
+- A más de 7 años: 15.83%
+
+[2025-07-16 23:56:17] Usuario: ¿cual tasa es mas baja?
+[2025-07-16 23:56:17] Chatbot: la tasa de usura en julio de 2025 es 27.5 %
+
+[2025-07-16 23:56:52] Usuario: ¿cual tasa es mas baja?
+[2025-07-16 23:56:52] Chatbot:  La entidad Bancoldex ofrece el producto de crédito "Comerciales especiales directos por la banca de segundo piso" con dos opciones de garantía: sin garantia y con garantía Fondo Nacional de Garantías (FNG) o Fondo de Garantías de Antioquia (FGA). Ambas opciones tienen un plazo de crédito entre 1 año y 5 años. La tasa efectiva promedio ponderada para la opción sin garantía es del 8.24%, mientras que para la opción con garantía es del 8.23%. Así pues, si el usuario está buscando una tasa baja en Bancoldex, podría considerar los productos financieros de crédito comercial especial directo con garantía FNG o FGA.
+
+[2025-07-17 19:31:44] Usuario: hola
+[2025-07-17 19:31:44] Chatbot: ¡Hola! Soy tu asistente especializado en riesgo de crédito en Colombia. ¿En qué te puedo ayudar?
+
+[2025-07-17 19:38:55] Usuario: escoge entre bancolombia y banco de bogota
+[2025-07-17 19:38:55] Chatbot: Bancolombia
+
+[2025-07-17 19:39:53] Usuario: escoge entre bancolombia y banco de bogota
+[2025-07-17 19:39:53] Chatbot: Bancolombia
+
+[2025-07-17 19:41:19] Usuario: ¿Cuales bancos ofrecen mejores tasas?
+[2025-07-17 19:41:19] Chatbot: credifamilia (13.19 % e.a.) para créditos de consumo, bancolombia (9.0 % e.a.) para hipotecas, pibank (13.2 % e.a.) para cuentas de ahorro y cdt, y banco contactar (9.5 % e.a.) para inversiones conservadoras
+
+[2025-07-17 19:43:04] Usuario: ¿cual tasa es mas baja?
+[2025-07-17 19:43:04] Chatbot: la tasa de usura en julio de 2025 es 27.5 %
+
+[2025-07-17 19:49:06] Usuario: ¿cual tasa es mas baja?
+[2025-07-17 19:49:06] Chatbot:  La entidad Bancoldex ofrece el producto de crédito comercial especial directos por la banca de segundo piso con una tasa efectiva promedio ponderada de 8,23%, siendo la más baja en la lista proporcionada. Este producto es para jurídicas y el plazo del crédito varía de más de un año hasta 5 años.
+
+Además, si buscas un producto de crédito comercial especial directos por la banca de segundo piso con una tasa efectiva promedio ponderada menor a 8,23%, revisa los productos de Bancoldex que cuentan con garantía Fondo Nacional de Garantías (FNG) o Fondo de Garantías de Antioquia (FGA), ya que estas tienen tasas más bajas en el rango de 8,2 a 15,83%.
+
+[2025-07-17 19:50:37] Usuario: ¿cuales son las mejores tasas?
+[2025-07-17 19:50:37] Chatbot: pibank: 13.2 % e.a., la mejor tasa para plazos cortos (3-6 meses).
+
+[2025-07-17 19:52:17] Usuario: ¿Que tasa de microcredito es mejor?
+[2025-07-17 19:52:17] Chatbot: las tasas promedio en 2025 son: bancos especializados: 20-25 % e.a., con 1.8 millones de desembolsos en 2024.
+
+[2025-07-17 19:57:59] Usuario: ¿Que tasa de microcredito es mejor?
+[2025-07-17 19:57:59] Chatbot:  Para encontrar la tasa de interés más baja en microcréditos para una empresa jurídica en Colombia, se puede considerar el producto "Comerciales especiales directos por la banca de segundo piso" ofrecido por Bancoldex. Tiene una tasa efectiva promedio ponderada de 8.23%, y los plazos de crédito varían desde más de un año hasta cinco años. Además, se puede solicitar esta garantía con fondo nacional de garantías (FNG) o Fondo de Garantías de Antioquia (FGA).
+
